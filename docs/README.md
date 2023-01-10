@@ -93,8 +93,6 @@ Other input types can be explored as well.
 
 *Ervaarde moeilijkheden / gevonden oplossingen*
 
-**ER WERKT GEEN HOL!**
-
 
 
 ## Cited Works
