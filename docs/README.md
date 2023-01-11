@@ -26,7 +26,7 @@ By Bavo Debraekeleer
 
 This is a project for the course Digital Systems Development at AP University of Applied Sciences and Arts Antwerp. It is developed on the Digilent Basys3 FPGA board with Xilinx Vivado 2022.2. The aim is to build a Synthesizer, or tone generator, based on the input of a computer mouse and a monitor, or computer screen, for visualization. 
 
-![](./fpga-mouse-synth.jpg)
+![](./assets/fpga-mouse-synth.jpg)
 
 
 
@@ -45,7 +45,7 @@ The project can be split up in six different components:
 
 
 
-![Project Diagram](./dsd-project-diagram.svg)
+![Project Diagram](./assets/dsd-project-diagram.svg)
 
 
 
@@ -76,6 +76,22 @@ Testing and validation is done in different ways.
 ## Explaining the Functionality
 
 *Reproduceerbaarheid / Tutorial achtige uitleg zoals de slides van de cursus.*
+
+### PS/2 Mouse Interface
+
+[Source: PS/2 Mouse Interface (VHDL)](https://forum.digikey.com/t/ps-2-mouse-interface-vhdl/12617)
+
+![PS/2 interface ports](./assets/ps2-interface-ports.jpeg)
+
+
+
+![PS/2 mouse data timing](./assets/ps2-interface-mouse-data-timing.jpeg)
+
+
+
+![PS/2 mouse data](./assets/ps2-interface-mouse-data.jpeg)
+
+
 
 
 
